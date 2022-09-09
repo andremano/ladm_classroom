@@ -1,2 +1,2 @@
-# ladm_classroom
- Datasets for teaching the Land Administration Domain Model (LADM(
+# LADM in the classroom
+ Datasets for teaching the Land Administration Domain Model (LADM)
