@@ -6,6 +6,6 @@ SELECT r.baunit_id,
 FROM rrr as r join party as p on r.party_id = p.party_id
 			  join spatial_unit as s on s.sunit_id = r.spatial_unit
 GROUP BY r.baunit_id
-ORDER BY r.baunit_id;
+GROUP BY r.baunit_id;
 
 
