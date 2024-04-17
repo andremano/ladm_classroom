@@ -8,3 +8,5 @@
 For additional information refer to: https://www.fig.net/resources/proceedings/fig_proceedings/fig2022/papers/ts06f/TS06F_lemmen_da_silva_mano_et_al_11734.pdf
 
 ![image](https://user-images.githubusercontent.com/6665872/189543269-f5cc486c-cab8-47d5-b4ef-b1ca0661212c.png)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
