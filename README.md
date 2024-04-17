@@ -1,5 +1,5 @@
 # LADM in the classroom
- Datasets for teaching the Land Administration Domain Model (LADM). It is currently distributed in the form of standalone files preloaded into a QGIS project. A version based on PostgreSQL relational database management system will also be published for teaching settings where it is possible to take advantage of a server-client architecture.
+ Datasets for teaching the Land Administration Domain Model (LADM) - ISO 19512 https://www.iso.org/standard/51206.html. It is currently distributed in the form of standalone files preloaded into a QGIS project. A version based on PostgreSQL relational database management system will also be published for teaching settings where it is possible to take advantage of a server-client architecture.
  
  A preview of the datasets can be see in this webmap application:[ https://sigap.pt/lizmap/index.php/view/map/?repository=ladm&project=water_river_village)
 
