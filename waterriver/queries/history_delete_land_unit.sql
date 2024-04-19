@@ -1,4 +1,4 @@
-CREATE TRIGGER update_land_unit_hist AFTER UPDATE
+CREATE TRIGGER delete_land_unit_hist AFTER DELETE
 ON land_unit
 BEGIN
 
@@ -12,7 +12,7 @@ INSERT INTO hist_land_unit(
 			VALUES (	 
 						old.land_cover, 						old.area_m2, 						old.identifier, 						old.fid,						old.geom,
 						old.beginLifespan,
-						datetime(),						'UPDATE');
+						datetime(),						'DELETE');
 END;
 
---drop trigger update_land_unit_hist;
+--drop trigger delete_land_unit_hist;
